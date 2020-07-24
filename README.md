@@ -20,7 +20,7 @@ SQL table in a PostgreSQL database.
 
 <ins>**Data Analysis**<ins>
 
-SQL queries were designed to query the database for the following:
+`SQL queries` were designed to query the database for the following:
 1. List the following details of each employee: employee number, last name, first name, gender, and salary.
 
 2. List employees who were hired in 1986.
