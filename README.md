@@ -39,7 +39,7 @@ SQL table in a PostgreSQL database.
 
 <ins>**Further Analysis**<ins>
 
-The SQL database was imported in Pandas. SQL Alchemy was used to make the connection with PostgreSQL database.
+The SQL database was imported in a pandas dataframe. SQL Alchemy was used to make the connection with PostgreSQL database.
 
 A histogram was created to visualize the most common salary ranges for employees. 
 A bar chart of average salary by title was also created.
